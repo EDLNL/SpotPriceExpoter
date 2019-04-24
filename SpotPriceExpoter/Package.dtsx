@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="4/24/2019 1:22:14 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="CZC64186H6"
+  DTS:CreatorName="ENERGIDANMARK\admlnl"
+  DTS:DTSID="{FF9A9839-C3CF-487F-B1A9-F9EE41C26963}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="15.0.1100.123"
+  DTS:LocaleID="1033"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{0DEC399F-8368-4149-9F3C-28FBB22C2611}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
